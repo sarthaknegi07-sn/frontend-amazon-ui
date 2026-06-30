@@ -27,11 +27,6 @@ This project was built to improve frontend development skills and understand how
 
 ---
 
-## 📸 Screenshot
-(Add your project screenshot here)
-
----
-
 ## 🔗 Live Demo
  https://sarthaknegi07-sn.github.io/frontend-amazon-ui/
 

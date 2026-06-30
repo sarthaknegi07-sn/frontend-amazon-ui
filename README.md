@@ -33,7 +33,7 @@ This project was built to improve frontend development skills and understand how
 ---
 
 ## 🔗 Live Demo
-(If you host it on GitHub Pages, paste link here)
+ https://sarthaknegi07-sn.github.io/frontend-amazon-ui/
 
 ---
 
